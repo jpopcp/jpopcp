@@ -1,6 +1,6 @@
 ##
 ### Hi there! 👋
-📍 From Portugal<br> 🎓 A digital marketer who loves web development<br> 🏋️‍♂️ A sports enthusiast<br> 📫 [Contact me through Linkedin](https://www.linkedin.com/in/joão-p-pereira)
+📍 From Portugal<br> 🤸🏻‍♂️ A former gymnast who loves software development<br> 🏋️‍♂️ A sports enthusiast<br> 📫 [Contact me through Linkedin](https://www.linkedin.com/in/joão-p-pereira)
 
 ##
 ### Projects:
