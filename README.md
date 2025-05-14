@@ -4,9 +4,10 @@
 
 ##
 ### Projects:
-⌨️ [Chat Group Server](https://github.com/jpopcp/Portfolio/tree/main/Chat_Group_Server) - A simple chat that supports multiple users.<br><br> 🐕 [Lama Apocalipse](https://github.com/jpopcp/Portfolio/tree/main/Game_Jam) - A tower defense game projected for a 10 day game jam try your best to beat the high score. <br><br> 
-🎨 [Map Editor](https://github.com/jpopcp/Portfolio/tree/main/Map_Editor) - Here you can paint what's up in your mind.<br><br>
-🤖 [RFPBuddy](https://github.com/jpopcp/Portfolio/tree/main/Projecto_Final_Nagarro)  (Final Project) - AI model that receives RFP (Requests For Proposals) and delivers an editable Proposal.<br><br>
+⌨️ [Chat Group Server](https://github.com/jpopcp/Group_Chat_Server) - A simple chat that supports multiple users.<br><br> 
+🐕 [Lama Apocalipse](https://github.com/jpopcp/Lama_Apocalipse) - A tower defense game projected for a 10 day game jam try your best to beat the high score. <br><br> 
+🎨 [Map Editor](https://github.com/jpopcp/Map_Editor) - Here you can paint what's up in your mind.<br><br>
+🤖 [RFPBuddy](https://github.com/jpopcp/RFPBuddy)  (Final Project) - AI model that receives RFP (Requests For Proposals) and delivers an editable Proposal.<br><br>
 
 ##
 ### Tech Stack:
